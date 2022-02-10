@@ -1,7 +1,7 @@
 {
   "name": "nodejs-simple-server",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
+  "description": "A Simple NodeJS Server",
   "author": "Deepak Kumar Singh",
   "main": "index.js",
   "scripts": {
