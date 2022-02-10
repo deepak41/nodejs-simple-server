@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-web-app",
+  "name": "nodejs-simple-server",
   "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Deepak Kumar Singh",
