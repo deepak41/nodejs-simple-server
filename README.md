@@ -1,4 +1,4 @@
-# Nodejs Simple Server
+# NodeJS Simple Server
 
 ## Getting Started
 ### To run the project:  
