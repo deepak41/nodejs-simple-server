@@ -1,9 +1,18 @@
 # NodeJS Simple Server
 
-## Getting Started
-### To run the project:  
+This app is a simple http server in Node.js.
 
-`$ npm install`  
-`$ nodemon`  
+## How to run:
 
-The app should be up and running. 
+Install dependencies and start the server.
+
+```bash
+npm i
+node index.js
+```
+
+Navigate to http://localhost:3000
+
+## License
+
+**Open source, all the way!**
